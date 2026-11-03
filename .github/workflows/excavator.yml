@@ -3,7 +3,7 @@ name: Excavator
 on:
   workflow_dispatch:
   schedule:
-    # run every 4 hours
+    # run every 4 hours to pick up new Nalmeok releases
     - cron: '20 */4 * * *'
 
 permissions:
