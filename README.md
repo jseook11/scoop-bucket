@@ -6,7 +6,10 @@
 
 ## 설치 / Install
 
+버킷을 추가하려면 git이 필요해서, Scoop을 처음 쓰면 첫 줄부터 실행해요. / Adding a bucket needs git, so run the first line on a fresh Scoop install.
+
 ```pwsh
+scoop install git
 scoop bucket add nalmeok https://github.com/jseook11/scoop-bucket
 scoop install nalmeok/nalmeok
 ```
