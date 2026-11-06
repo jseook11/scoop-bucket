@@ -1,17 +1,17 @@
 {
-    "version": "0.10.2",
+    "version": "0.10.3",
     "description": "Transcribe lecture audio into Markdown with Gemini.",
     "homepage": "https://github.com/jseook11/nalmeok",
     "license": "MIT",
     "notes": "Your transcripts, API keys and history are kept in %APPDATA%\\nalmeok and survive updates or uninstall.",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jseook11/nalmeok/releases/download/v0.10.2/Nalmeok-0.10.2-windows-x64.exe#/Nalmeok.exe",
-            "hash": "7ff76cd91aee0b450c06c6409d440c74662503b59249656f45df8e63e978a0c3"
+            "url": "https://github.com/jseook11/nalmeok/releases/download/v0.10.3/Nalmeok-0.10.3-windows-x64.exe#/Nalmeok.exe",
+            "hash": "69d9a65fa38c6f988e790f2b78d656026d9022e85a3e1bc9c174fefbf2242610"
         },
         "arm64": {
-            "url": "https://github.com/jseook11/nalmeok/releases/download/v0.10.2/Nalmeok-0.10.2-windows-arm64.exe#/Nalmeok.exe",
-            "hash": "5237b6a682304ad1d3f3e817b00bdc9102b8c004adba7839653491dfa2734b08"
+            "url": "https://github.com/jseook11/nalmeok/releases/download/v0.10.3/Nalmeok-0.10.3-windows-arm64.exe#/Nalmeok.exe",
+            "hash": "79273cd4c5e6967c57809ce54d83297e82d238c378028b3d7239ecc8ff3a2322"
         }
     },
     "shortcuts": [
